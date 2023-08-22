@@ -1,24 +1,19 @@
-# README
+# DATA BRICK
+1. create the model
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# APP BRICK
+1. Define the route
+2. code the controller action
+3. code the view
 
-Things you may want to cover:
+See all restaurants
+See details about one restaurant
+Create a restaurant
+Update a restaurant
+Destroy a restaurant
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Model
+Controller
+View
